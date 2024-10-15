@@ -12,6 +12,8 @@ https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
 
 Save the File on your Raspberry Pi Zero 2 W, I recommend using the latest Pi OS Lite
 
+Use an editor to edit the Camera file to add a path where it should save the Images.
+
 
 # Dependencies
 
