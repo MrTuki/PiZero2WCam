@@ -34,7 +34,7 @@ def take_picture():
     filename = now.strftime("%H-%M-%S_%d-%m-%Y.jpg")
 
     # Capture the image
-    picam2.capture_file(f"(filename}")
+    picam2.capture_file(f"(filename}")  #Add here the directory where it should be saved!
     print(f"Picture taken and saved as {filename}")
     
     picam2.stop()  # Stop the camera
